@@ -146,3 +146,4 @@ pca_data.columns = ['Explained Variance','Samples','PC1 - scores', 'PC2 - scores
 
 with pd.ExcelWriter(file_path+file_name) as writer:
     pca_data.to_excel(writer,sheet_name='pca data',index=False)
+    
