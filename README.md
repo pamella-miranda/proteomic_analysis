@@ -1,4 +1,4 @@
-# proteomic_analysis
+# proteomics_analysis
 A set of scripts to different analyses of Proteomic data
 
 # Filtering data and Missing values
